@@ -1,0 +1,23 @@
+baseURL = "https://nighttime.coffee/"
+title = "Coffee by Moonlight"
+languageCode = "en-us"
+copyright = "Copyright © 2021, Matthew J. Harmon; all rights reserved."
+MetaDataFormat = "toml" 
+googleAnalytics = "G-WD2SY6RK53"
+
+[author]
+	name = "Matthew J. Harmon"
+
+[indexes]
+	tag = "tags"
+	topic = "topics"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
