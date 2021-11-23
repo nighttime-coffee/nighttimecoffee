@@ -18,7 +18,7 @@ params:
     title: "Coffee by Moonlight"
     description: "Writings and projects"
     keywords: [Blog, Projects, Long Form]
-    author: Matthew J. Harmon
+    author: "Matthew J. Harmon"
     images: ["/images"]
     DateFormat: "2021-01-02" 
     defaultTheme: auto
@@ -89,7 +89,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/nighttime-coffee/site"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -106,19 +106,19 @@ params:
 menu:
     main:
         - identifier: Thoughts
-          name: blog
+          name: Blog
           url: /blog/
           weight: 10
         - identifier: tags
-          name: tags
+          name: Tags
           url: /tags/
           weight: 20
         - identifier: Projects
-          name: projects
+          name: Projects
           url: /projects/
           weight: 30
         - identifier: biography
-          name: matthewjharmon.com
+          name: MatthewJHarmon.com
           url: https://matthewjharmon.com
           weight: 40
 
