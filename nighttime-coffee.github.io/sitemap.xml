@@ -18,11 +18,22 @@
   </url>
   
   <url>
-    <loc>https://nighttime.coffee/categories/</loc>
+    <loc>https://nighttime.coffee/tags/bacon/</loc>
+    <lastmod>2021-11-21T11:12:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nighttime.coffee/blog/lorum-bacon/</loc>
+    <lastmod>2021-11-21T11:12:19-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://nighttime.coffee/tags/</loc>
+    <lastmod>2021-11-21T11:12:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nighttime.coffee/categories/</loc>
   </url>
   
 </urlset>

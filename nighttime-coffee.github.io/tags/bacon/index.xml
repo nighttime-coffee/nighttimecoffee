@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Coffee by Moonlight</title>
-    <link>https://nighttime.coffee/</link>
-    <description>Recent content on Coffee by Moonlight</description>
+    <title>bacon on Coffee by Moonlight</title>
+    <link>https://nighttime.coffee/tags/bacon/</link>
+    <description>Recent content in bacon on Coffee by Moonlight</description>
     <image>
       <url>https://nighttime.coffee/images</url>
       <link>https://nighttime.coffee/images</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2021 21:43:53 -0600</lastBuildDate><atom:link href="https://nighttime.coffee/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cauda Equina Syndrome</title>
-      <link>https://nighttime.coffee/blog/caudaequinasyndrome/</link>
-      <pubDate>Mon, 22 Nov 2021 21:43:53 -0600</pubDate>
-      
-      <guid>https://nighttime.coffee/blog/caudaequinasyndrome/</guid>
-      <description>Cauda Equina Syndrome Testing Copy</description>
-    </item>
-    
+    <lastBuildDate>Sun, 21 Nov 2021 11:12:19 -0600</lastBuildDate><atom:link href="https://nighttime.coffee/tags/bacon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorum Bacon</title>
       <link>https://nighttime.coffee/blog/lorum-bacon/</link>
