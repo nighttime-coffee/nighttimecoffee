@@ -102,7 +102,7 @@ params:
         distance: 1000
         threshold: 0.4
         minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
+        keys: ["title", "permalink", "summary", "content" ,"long form"]
 menu:
     main:
         - identifier: Thoughts
@@ -117,6 +117,10 @@ menu:
           name: Projects
           url: /projects/
           weight: 30
+        - identifier: "Long Form"
+          name: "Long Form"
+          url: /long_form/
+          wight: 31
         - identifier: biography
           name: MatthewJHarmon.com
           url: https://matthewjharmon.com
