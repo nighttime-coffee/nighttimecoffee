@@ -20,7 +20,7 @@ params:
     keywords: [Blog, Projects, Long Form]
     author: "Matthew J. Harmon"
     images: ["/images"]
-    DateFormat: "2021-01-02" 
+    #    DateFormat: "2015-01-21"
     defaultTheme: auto
     disableThemeToggle: false
 
@@ -71,9 +71,9 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/nighttimecoffee"
+          url: "https://twitter.com/NightTimeC0FF33"
         - name: github
-          url: "https://github.com/nighttime-coffee"
+          url: "https://github.com/nighttime-coffee/nighttimecoffee"
 
     analytics:
         google:
@@ -89,7 +89,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/nighttime-coffee/site"
+        URL: "https://github.com/nighttime-coffee/nighttimecoffee"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
