@@ -1,6 +1,7 @@
 baseURL: "https://nighttime.coffee"
 languageCode: "en-us"
 title: "Coffee by Moonlight" 
+Copyright: "&copy; 2021 Matthew J. Harmon. Other, MIT/BSD licensed as indicated."
 
 enableRobotsTXT: true
 buildDrafts: false

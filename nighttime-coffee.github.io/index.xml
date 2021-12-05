@@ -10,6 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2021 Matthew J. Harmon. Other, MIT/BSD licensed as indicated.</copyright>
     <lastBuildDate>Mon, 29 Nov 2021 00:29:35 -0600</lastBuildDate><atom:link href="https://nighttime.coffee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foundational Elements</title>
@@ -38,6 +39,23 @@ Spine Nerve Root Compression Whatever you want to call it, it sucked.</descripti
       <guid>https://nighttime.coffee/blog/lorum-bacon/</guid>
       <description>Bacon Ipsum Bacon ipsum dolor amet corned beef kevin flank boudin sausage jowl. Salami spare ribs doner hamburger meatloaf, kevin short ribs cow bresaola ground round. Filet mignon boudin meatball leberkas ground round, jerky swine chuck pork belly chislic ham hock fatback. Salami jerky pork belly, ribeye burgdoggen ball tip chuck.
 Bacon ipsum dolor amet capicola pastrami chislic brisket pork, landjaeger pork loin short ribs picanha drumstick spare ribs chuck shank.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nighttime.coffee/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nighttime.coffee/privacy/</guid>
+      <description>Last updated: December 04, 2021
+ToS;DR: In line with the site README.md
+All rights reserved over content in the following directories. Framework is MIT or BSD as marked.
+  content/
+ static/ media/    static/
+ static/ fonts/    static/
+ favicon.ico    static/apple-touch-icon.png
+  How it works:
+GitHub repo powered by Markdown, yaml, HTML5 snippets and Hugo to splice them together converts Markdown to HTML which is then signed and committed to GitHub where it is made available over Let&amp;rsquo;s Encrypt HTTPS &amp;ldquo;GitHub Page.</description>
     </item>
     
   </channel>

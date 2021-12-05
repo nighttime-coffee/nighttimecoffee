@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://nighttime.coffee/privacy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nighttime.coffee/categories/</loc>
   </url>
   
